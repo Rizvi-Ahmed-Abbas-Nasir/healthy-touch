@@ -2405,6 +2405,10 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
   margin-top: 0;
 }
 
+.header-logo{
+  width:12rem;
+}
+
 .login-header-search .search-input input:not([type=submit]):not([type=checkbox]):not([type=radio]):not([type=file])::-webkit-input-placeholder {
   opacity: 1;
 }
